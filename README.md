@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 👋, I'm Sonu Kumar</h1>
 
-<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213875883-0bca3823-3d7c-4255-83e2-15d91e8a84dc.gif" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png" />
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"
     height="320" />
@@ -87,4 +87,4 @@
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
 [GitHub]: https://github.com/Sonukumar-singh
-[Image]: https://user-images.githubusercontent.com/84267922/213875883-0bca3823-3d7c-4255-83e2-15d91e8a84dc.gif
+[image]: https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png
