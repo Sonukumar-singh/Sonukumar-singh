@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 👋, I'm Sonu Kumar</h1>
-<img alt="GIF" src="https://www.digitalsolutionservices.com/img/services/website1.gif" />
 
+<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213875883-0bca3823-3d7c-4255-83e2-15d91e8a84dc.gif" />
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"
     height="320" />
@@ -80,8 +80,11 @@
     <p></p>
 </details>
 
+<img alt="GIF" src="https://www.digitalsolutionservices.com/img/services/website1.gif" />
+
 [youtube]: https://www.youtube.com/@noob-coder
 [instagram]: https://www.instagram.com/itsme_noobcoder/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
 [GitHub]: https://github.com/Sonukumar-singh
+[Image]: https://user-images.githubusercontent.com/84267922/213875883-0bca3823-3d7c-4255-83e2-15d91e8a84dc.gif
