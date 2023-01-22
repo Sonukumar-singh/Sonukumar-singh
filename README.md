@@ -1,6 +1,7 @@
-<h1 align="left">Hello World 👋, I'm Sonu Kumar</h1>
+<h1 align="left">Hi 👋, I'm Sonu Kumar</h1> 
 
-<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png" />
+
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"
     height="320" />
@@ -8,7 +9,7 @@
 
 ## I'm a Learner, Developer, and Creator !!
 ### Some key features !
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here **[portfolio]**
 - 🔭 I’m currently working on my JS projects.
 - 🌱 I’m currently learning React
 - 📫 How to reach me **contactme.sonukumar@gmail.com**
@@ -75,16 +76,10 @@
     </p>
 </details>
 
-<details>
-    <summary>:zap: Yotube Latest Video</summary><br>
-    <p></p>
-</details>
-
-<img alt="GIF" src="https://www.digitalsolutionservices.com/img/services/website1.gif" />
-
 [youtube]: https://www.youtube.com/@noob-coder
 [instagram]: https://www.instagram.com/itsme_noobcoder/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
 [GitHub]: https://github.com/Sonukumar-singh
 [image]: https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png
+[banner-image]: https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png
