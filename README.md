@@ -37,7 +37,7 @@
         <a href="https://codepen.io/sonukumar-singh" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
                 alt="sonukumar-singh" height="22" width="33" /></a>                
-        <a href="https://www.youtube.com/c/@noob-coder" target="blank"><img align="center"
+        <a href="https://www.youtube.com/@frontend_insider/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                 alt="@noob-coder" height="30" width="33" /></a>
     </p>
@@ -76,7 +76,7 @@
     </p>
 </details>
 
-[youtube]: https://www.youtube.com/@noob-coder
+[youtube]: https://www.youtube.com/@frontend_insider/
 [instagram]: https://www.instagram.com/itsme_noobcoder/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
