@@ -5,8 +5,8 @@
 <img align="right" alt="GIF" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" width="320"
     height="300" />
 
-<br />
  I'm a Learner, Developer, and Creator !!
+<br />
 ### Some key features!
 - ✍ You can find my projects here **[portfolio]**
 - 🔭 I’m currently working on my JS projects.
