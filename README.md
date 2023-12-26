@@ -1,8 +1,9 @@
-<h1 align="left"> Hi 👋, I'm Sonu Kumar</h1> 
+<h1 align="left">About Me .. ✍🏻</h1> 
+<img align="top" alt="GIF" src="https://github.com/me-sonukumar/me-sonuKumar/blob/main/BannerImage.png?raw=true" width="2000"
+    height="300" />
 
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" width="500"
-    height="320" />
+<img align="right" alt="GIF" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" width="320"
+    height="300" />
 
 
  I'm a Learner, Developer, and Creator !!
