@@ -1,6 +1,6 @@
 <h1 align="left">About Me .. ✍🏻</h1> 
 <img align="top" alt="GIF" src="https://github.com/me-sonukumar/me-sonuKumar/blob/main/BannerImage.png?raw=true" width="1280"
-    height="640" />
+    height="320" />
 
 <img align="right" alt="GIF" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" width="320"
     height="300" />
