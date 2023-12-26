@@ -8,12 +8,12 @@
 
 
 ## I'm a Learner, Developer, and Creator !!
-### Some key features !
+### Some key features!
 - ✍ You can find my projects here **[portfolio]**
 - 🔭 I’m currently working on my JS projects.
 - 🌱 I’m currently learning React
-- 📫 How to reach me **contactme.sonukumar@gmail.com**
-- 👯 I’m looking to collaborate on open source
+- 📫 How to reach me **dev.sonukumarsingh@gmail.com**
+- 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 
