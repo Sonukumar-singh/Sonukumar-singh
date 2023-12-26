@@ -1,18 +1,16 @@
-<h1 align="left">Hi 👋, I'm Sonu Kumar</h1> 
-
-<img alt="GIF" src="https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png" />
+<h1 align="left"> Hi 👋, I'm Sonu Kumar</h1> 
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" width="500"
     height="320" />
 
 
-## I'm a Learner, Developer, and Creator !!
+ I'm a Learner, Developer, and Creator !!
 ### Some key features!
 - ✍ You can find my projects here **[portfolio]**
 - 🔭 I’m currently working on my JS projects.
 - 🌱 I’m currently learning React
-- 📫 How to reach me **dev.sonukumarsingh@gmail.com**
+- 📫 My Gmail **dev.sonukumarsingh@gmail.com**
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
@@ -21,6 +19,7 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
         <a href="https://instagram.com/itsme_sonukumarsingh" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -61,20 +60,22 @@
 <br />
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true" />
+</picture>
+<br />
+<br />
 
-<details>
-    <summary>:zap: GitHub Stats</summary><br>
-    <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukumar-singh&show_icons=true&hide_border=true" alt="sonukumar-singh" />
-    </p>
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sonukumar&size_weight=0.5&count_weight=0.5&theme=dark)
 
-<details>
-  <summary>:zap: Most Used Languages</summary><br>
-    <p>
-    <img align="left" alt="sonu GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar-singh" />
-    </p>
-</details>
 
 [youtube]: https://www.youtube.com/@frontend_insider/
 [instagram]: https://www.instagram.com/itsme_noobcoder/
