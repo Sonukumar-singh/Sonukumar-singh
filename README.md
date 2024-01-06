@@ -55,36 +55,21 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="33" height="25" />
         </a>
-    </p>
+ </p>
 <br />
 <br />
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true" />
-</picture>
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sonukumar&size_weight=0.5&count_weight=0.5&theme=dark)
+<p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-sonukumar&show_icons=true&locale=en&layout=compact" alt="me-sonukumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-sonukumar&show_icons=true&locale=en&theme=dark&layout=compact" alt="me-sonukumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true&locale=en" alt="me-sonukumar" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true&locale=en&theme=dark" alt="me-sonukumar" /></p>
 
 
-[youtube]: https://www.youtube.com/@frontend_insider/
+
+
+[YouTube]: https://www.youtube.com/@frontend_insider/
 [instagram]: https://www.instagram.com/me_sonukumarsingh/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
