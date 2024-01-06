@@ -4,7 +4,6 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966" />
     <br />
 
-
  I'm a Learner, Developer, and Creator !!
 <br />
 ### Some key features!
@@ -77,11 +76,23 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sonukumar&size_weight=0.5&count_weight=0.5&theme=dark)
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-sonukumar&show_icons=true&locale=en&layout=compact" alt="me-sonukumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-sonukumar&show_icons=true&locale=en" alt="me-sonukumar" /></p>
+
+
+
 
 [youtube]: https://www.youtube.com/@frontend_insider/
-[instagram]: https://www.instagram.com/itsme_noobcoder/
+[instagram]: https://www.instagram.com/me_sonukumarsingh/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
 [portfolio]: https://www.thecoding.co.in/
-[GitHub]: https://github.com/Sonukumar-singh
+[GitHub]: https://github.com/me-sonukumar
 [image]: https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png
 [banner-image]: https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png
