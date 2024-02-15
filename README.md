@@ -72,7 +72,7 @@
 [YouTube]: https://www.youtube.com/@frontend_insider/
 [instagram]: https://www.instagram.com/me_sonukumarsingh/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
-[portfolio]: https://www.thecoding.co.in/
+[portfolio]: https://www.developersonu.in/
 [GitHub]: https://github.com/me-sonukumar
 [image]: https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png
 [banner-image]: https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png
