@@ -18,6 +18,21 @@
 
 <hr>
 
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="HTML5" width="26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="33" height="25" />
+        </a>
+ </p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -41,23 +56,7 @@
                 alt="@noob-coder" height="30" width="33" /></a>
     </p>
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-[<img align="left" alt="HTML5" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
-[<img align="left" alt="CSS3" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" alt="JavaScript" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="React" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="33" height="25" />
-        </a>
- </p>
-<br />
-<br />
+
 
 <p align="left">
 </p>
@@ -72,7 +71,7 @@
 [YouTube]: https://www.youtube.com/@frontend_insider/
 [instagram]: https://www.instagram.com/me_sonukumarsingh/
 [linkedin]: https://www.linkedin.com/in/sonukumar-singh/
-[portfolio]: https://www.developersonu.in/
+[portfolio]: https://developersonu.in/
 [GitHub]: https://github.com/me-sonukumar
 [image]: https://user-images.githubusercontent.com/84267922/213877203-c0ad0de0-ad39-4484-9ad7-14b176704930.png
 [banner-image]: https://user-images.githubusercontent.com/84267922/213926374-5d4a8d80-36df-4be4-b03a-fbd7c0e5ec35.png
